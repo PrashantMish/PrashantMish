@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Mishra Prashant Kumar Ramesh
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning technical skills like Python,MySql,Core Java, HTML,CSS.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+PrashantMish/PrashantMish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
