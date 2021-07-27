@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering
 - 🌱 I have technical skills knowledge like Python,MySql,Core Java, HTML,CSS.
 
--📫 How to reach me through github profile.
+- 📫 How to reach me through github profile.
 
 <!---
 PrashantMish/PrashantMish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
