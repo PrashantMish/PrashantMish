@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mishra Prashant Kumar Ramesh
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning technical skills like Python,MySql,Core Java, HTML,CSS.
+- 🌱 I have technical skills knowledge like Python,MySql,Core Java, HTML,CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through github profile.
 
