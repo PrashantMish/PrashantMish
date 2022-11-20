@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant Mishra
 - 👀 I’m interested in Software engineering
-- 🌱 I have technical skills knowledge of C#.Net, Javascript, MySql, PLM-Teamcenter.
+- 🌱 I have technical skills knowledge of C#, ASP.NET CORE, Java Core, Javascript,Sql, PLM-Teamcenter.
 
 - 📫 How to reach me through github profile.
 
