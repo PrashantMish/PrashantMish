@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prashant Mishra
-- 👀 I’m interested in Software engineering
+- 👀 I’m interested in Development.
 - 🌱 I have technical skills knowledge of Python, Django, MVT, ORM, HTML5, CSS, Bootstrap, JavaScript, C++, PLM-Teamcenter.
 - 📫 How to reach me through github profile.
 <!---
