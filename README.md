@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prashant Mishra
-- 👀 I’m interested in Development | Data Analyst Role.
+- 👀 I’m interested in Development.
 - 🌱 I have technical skills knowledge such as Python, Django, MVT, HTML5, CSS, Bootstrap, JavaScript, PLM-Teamcenter.
 - 📫 How to reach me through github profile.
 <!---
