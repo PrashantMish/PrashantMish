@@ -1,5 +1,21 @@
-👋 Hello there! I'm @Prashant Mishra, a passionate Python Developer and problem-solving enthusiast. My journey in tech revolves around Python, Django, Flask, MySQL, GitLab, and a solid grasp of HTML, CSS, JavaScript, and DRF (Django Rest Framework).
+Driving growth with a 45% boost in operational efficiency, leveraging 3 years of experience as a Python developer. Skilled in building scalable solutions and optimizing backend systems using Python, Flask, Django, MySQL, Pandas, MongoDB, GitLab, GitHub, Postman, and Jira.
 
-🚀 I love crafting robust solutions and diving deep into the intricacies of code. From back-end development to seamless integration of user interfaces, I enjoy the challenge of creating scalable applications.
+Expertise & Responsibilities 🚀
 
-🔍 Exploring innovative solutions and collaborating on impactful projects energizes me. Let's connect, collaborate, and code for a brighter, tech-driven future! 💻✨
+🤝 Collaborate with development teams to define app requirements 
+
+💻 Write scalable, efficient Python code 
+
+🛠️ Test & debug for reliability and performance 
+
+⚙️ Develop robust back-end components 
+
+🔗 Integrate user-facing elements with server-side logic 
+
+💡  Prioritize and assess client feature requests 
+
+📊 Implement and optimize data storage solutions 
+
+🌐 Work with front-end developers for smooth system integration 
+
+📈 Enhance and reprogram existing databases for better functionality
