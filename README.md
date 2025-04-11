@@ -1,4 +1,4 @@
-Driving growth with a 45% boost in operational efficiency, leveraging 3 years of experience as a Python developer. Skilled in building scalable solutions and optimizing backend systems using Python, Flask, Django, MySQL, Pandas, MongoDB, GitLab, GitHub, Postman, and Jira.
+Driving growth with a 45% boost in operational efficiency, over 3 years of experience as a Python Software Developer. Skilled in building scalable solutions and optimizing backend systems using Python, Flask, FastAPI, Django, Redis, RabbitMQ, Docker, MySQL, Pandas, MongoDB, GitLab, GitHub, Postman, and Jira.
 
 Expertise & Responsibilities 🚀
 
